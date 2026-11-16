@@ -1,0 +1,12 @@
+Explain the attached paper.
+
+Rules-
+1. Use diagrams, tables and interactive elements where appropriate to enhance understanding. A visual illustration is worth a thousand words.
+2. Be clear about their contributions and limitations. Highlight any assumptions they made and discuss how those might affect the results.
+3. If any of their claims are not well-supported by the evidence presented, point that out and explain why.
+4. If you are unsure, doubtfule, confused about or have low knowledge or confidence in any part of the paper, please say so.
+5. Mark red flags.
+6. Use boxes for important points, and highlight key terms in bold.
+7. About terms that are not clear, search for them online, learn yourself to confirm your understanding.
+
+After your explanation, create a table of their stated contributions and your opinion on whether they have actually made those claimed contributions.
